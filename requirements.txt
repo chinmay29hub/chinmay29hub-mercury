@@ -4,7 +4,7 @@ attrs==21.4.0
 backcall==0.2.0
 billiard==3.6.4.0
 bleach==4.1.0
-celery==5.1.2
+celery==5.2.2
 certifi==2021.10.8
 charset-normalizer==2.0.11
 click==7.1.2
